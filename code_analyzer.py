@@ -1,6 +1,6 @@
 class CodeAnalyzer:
-    def __init__(self, api_key=None):
-        self.api_key = api_key
+    def __init__(self):
+        pass
 
     def analyze_code(self, code):
         # Analyze efficiency
